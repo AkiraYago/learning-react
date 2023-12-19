@@ -1,0 +1,22 @@
+.app{
+    display: flex;
+    justify-content: center;
+}
+.hooks{
+    width: 60%;
+    background-color: darkgray;
+    padding: 40px;
+}
+.hooks .title{
+    font-weight: bolder;
+    border: 2px solid rgb(0, 42, 250);
+    padding: 5px;
+    border-radius: 5px;
+}
+.hooks .subtitle{
+    color: rgb(26, 58, 95);
+    padding-left: 10px;
+}
+.hooks p{
+    padding-left: 10px;
+}
